@@ -6,7 +6,7 @@
     "component/underscore": "*"
   },
   "keywords": ["backbone", "underscore"],
-  "main": "backbone.js"
+  "main": "backbone.js",
   "scripts": [
     "backbone.js", "index.js"
   ]
